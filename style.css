@@ -652,12 +652,12 @@ p {
 	}
 	/* End Hero */
 
-	/* Services Section */
-	#services .service-bottom .service-item {
+	/* Serviços Section */
+	#serviços .serviço-bottom .serviço-item {
 		flex-basis: 45%;
 		margin: 2.5%;
 	}
-	/* End Services Section */
+	/* End Serviços Section */
 
 	/* Project */
 	#projects .project-item {
