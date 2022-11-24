@@ -329,8 +329,9 @@ p {
 	text-align: left;
 }
 
-#Posts Antigos .posts-antigos h2 {
+#blogue .posts-antigos p {
 	color: blue;
+	font-size: 2rem;
 
 
 /* End Blogue Section */
